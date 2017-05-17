@@ -1,0 +1,7 @@
+baseURL = "https://xdave.github.com"
+languageCode = "en-us"
+title = "Some Things"
+
+[Params]
+  Author = "Dave Gradwell"
+  Description = "Nothing special"
